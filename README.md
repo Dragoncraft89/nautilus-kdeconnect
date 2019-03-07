@@ -49,4 +49,4 @@ In addition to [KDE Connect](https://community.kde.org/KDEConnect), this extensi
 1. On your PC, install the `kdeconnect`, `python-caja`, `libnotify-bin` and `git` packages.
 2. Install the KDE Connect app for Android as mentioned above ([Google Play](https://play.google.com/store/apps/details?id=org.kde.kdeconnect_tp) / [F-Droid](https://f-droid.org/repository/browse/?fdid=org.kde.kdeconnect_tp)).
 3. Launch KDE Connect on your PC and on your Android device. Pair the two devices and enable the sharing plugin.
-4. Clone this repository and install the extension with the `Nemo` target: `git clone https://github.com/Dragoncraft89/nautilus-kdeconnect caja-kdeconnect && make -C caja-kdeconnect install TARGET=Caja`
+4. Clone this repository and install the extension with the `Caja` target: `git clone https://github.com/Dragoncraft89/nautilus-kdeconnect caja-kdeconnect && make -C caja-kdeconnect install TARGET=Caja`
